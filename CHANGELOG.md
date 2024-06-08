@@ -1,5 +1,12 @@
 # Changelog
 
+## [12.10.1](https://github.com/LazyVim/LazyVim/compare/v12.10.0...v12.10.1) (2024-06-08)
+
+
+### Bug Fixes
+
+* **typescript:** implemented move to new file. Fixes [#3534](https://github.com/LazyVim/LazyVim/issues/3534) ([d90930b](https://github.com/LazyVim/LazyVim/commit/d90930b13e4515a5f4e4f3892ac9f7c392c4f20c))
+
 ## [12.10.0](https://github.com/LazyVim/LazyVim/compare/v12.9.0...v12.10.0) (2024-06-07)
 
 
